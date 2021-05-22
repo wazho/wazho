@@ -2,7 +2,7 @@
 <div>
     <br />
     <h3>Pokemon GO Professor Willow</h3>
-    <h4>LINE ChatBot (4000+ followers) since 2021.02.12</h4>
+    <h4>LINE ChatBot (6,000+ followers) since 2021.02.12</h4>
     <br />
     <ul>
         <li><strong>A chatbot integrates multi-sources</strong></li>
@@ -19,7 +19,7 @@
 <div>
     <br />
     <h3>PokeMentor</h3>
-    <h4>Google Play 3000+ downloads since 2020.02.01</h4>
+    <h4>Google Play 3,000+ downloads since 2020.02.01</h4>
     <br />
     <ul>
         <li><strong>A game that trains players' reaction on Pokemon GO battle</strong></li>
