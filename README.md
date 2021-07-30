@@ -2,7 +2,7 @@
 <div>
     <br />
     <h3>Pokemon GO Professor Willow</h3>
-    <h4>LINE ChatBot (6,000+ followers) since 2021.02.12</h4>
+    <h4>LINE ChatBot (8,000+ followers) since 2021.02.12</h4>
     <br />
     <ul>
         <li><strong>A chatbot integrates multi-sources</strong></li>
