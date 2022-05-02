@@ -9,7 +9,7 @@
         <li>Data collection automatically by <strong>GitHub Actions</strong></li>
         <li>CI/CD <strong>GitHub Actions</strong> and deploy on <strong>GCP Cloud Functions</strong></li>
         <li>Golang / Node.js / TypeScript</li>
-        <li><a href="https://page.line.me/?accountId=611mscwy">Main page</a> / <a href="https://github.com/pmgo-professor-willow/line-chatbot">Repo</a></li>
+        <li><a href="https://page.line.me/?accountId=611mscwy">Main page</a> / <a href="https://github.com/pmgo-professor-willow">Repos</a></li>
     </ul>
 </div>
 
